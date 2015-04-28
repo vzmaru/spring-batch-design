@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viewpoint:DAnalysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:sbd="http://www.example.org/sbd" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style" xmi:id="__XHLEO1PEeS_SJxgbrptDA" selectedViews="__PClcO1VEeS_SJxgbrptDA" version="8.1.1">
+  <models xmi:type="sbd:Job" href="example.sbd#/"/>
+  <ownedViews xmi:type="viewpoint:DRepresentationContainer" xmi:id="__PClcO1VEeS_SJxgbrptDA" initialized="true">
+    <ownedRepresentations xmi:type="diagram:DSemanticDiagram" xmi:id="_MdvbYO1WEeS_SJxgbrptDA" name="new Job Diagram">
+      <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_MdwpgO1WEeS_SJxgbrptDA" source="GMF_DIAGRAMS">
+        <data xmi:type="notation:Diagram" xmi:id="_Mdwpge1WEeS_SJxgbrptDA" type="Sirius" element="_MdvbYO1WEeS_SJxgbrptDA" measurementUnit="Pixel">
+          <children xmi:type="notation:Node" xmi:id="_Mdwpg-1WEeS_SJxgbrptDA" type="2001" element="_MdvbYe1WEeS_SJxgbrptDA">
+            <children xmi:type="notation:Node" xmi:id="_MdxQkO1WEeS_SJxgbrptDA" type="5002">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_MdxQke1WEeS_SJxgbrptDA" x="31"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_MdyesO1WEeS_SJxgbrptDA" type="3003" element="_MdvbYu1WEeS_SJxgbrptDA">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_Mdyese1WEeS_SJxgbrptDA" fontName=".Helvetica Neue DeskInterface"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Mdyesu1WEeS_SJxgbrptDA"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_MdwphO1WEeS_SJxgbrptDA" fontName=".Helvetica Neue DeskInterface" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Mdwphe1WEeS_SJxgbrptDA" x="108" y="90" width="30" height="30"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_MdxQku1WEeS_SJxgbrptDA" type="2001" element="_MdvbZu1WEeS_SJxgbrptDA">
+            <children xmi:type="notation:Node" xmi:id="_Mdx3oO1WEeS_SJxgbrptDA" type="5002">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_Mdx3oe1WEeS_SJxgbrptDA" x="31"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_MdzFwO1WEeS_SJxgbrptDA" type="3003" element="_MdvbZ-1WEeS_SJxgbrptDA">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_MdzFwe1WEeS_SJxgbrptDA" fontName=".Helvetica Neue DeskInterface"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MdzFwu1WEeS_SJxgbrptDA"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_MdxQk-1WEeS_SJxgbrptDA" fontName=".Helvetica Neue DeskInterface" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MdxQlO1WEeS_SJxgbrptDA" x="221" y="90" width="30" height="30"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_fYA2kO1iEeSntPkwmctYYg" type="2001" element="_fXWIMO1iEeSntPkwmctYYg">
+            <children xmi:type="notation:Node" xmi:id="_fYILUO1iEeSntPkwmctYYg" type="5002">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_fYILUe1iEeSntPkwmctYYg" y="5"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_fYJZcO1iEeSntPkwmctYYg" type="3003" element="_fXWvQO1iEeSntPkwmctYYg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_fYJZce1iEeSntPkwmctYYg" fontName=".Helvetica Neue DeskInterface"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fYJZcu1iEeSntPkwmctYYg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_fYA2ke1iEeSntPkwmctYYg" fontName=".Helvetica Neue DeskInterface" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fYA2ku1iEeSntPkwmctYYg" x="333" y="90" width="30" height="30"/>
+          </children>
+          <styles xmi:type="notation:DiagramStyle" xmi:id="_Mdwpgu1WEeS_SJxgbrptDA"/>
+          <edges xmi:type="notation:Edge" xmi:id="_fYbGQO1iEeSntPkwmctYYg" type="4001" element="_fX4TsO1iEeSntPkwmctYYg" source="_Mdwpg-1WEeS_SJxgbrptDA" target="_MdxQku1WEeS_SJxgbrptDA">
+            <children xmi:type="notation:Node" xmi:id="_fYcUYO1iEeSntPkwmctYYg" type="6001">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fYcUYe1iEeSntPkwmctYYg" y="-10"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_fYc7cO1iEeSntPkwmctYYg" type="6002">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fYc7ce1iEeSntPkwmctYYg" y="10"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_fYc7cu1iEeSntPkwmctYYg" type="6003">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fYc7c-1iEeSntPkwmctYYg" y="10"/>
+            </children>
+            <styles xmi:type="notation:ConnectorStyle" xmi:id="_fYbGQe1iEeSntPkwmctYYg"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_fYbGQu1iEeSntPkwmctYYg" fontName=".Helvetica Neue DeskInterface" fontHeight="8"/>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fYbGQ-1iEeSntPkwmctYYg" points="[15, 4, -70, 0]$[114, 4, 29, 0]"/>
+            <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fYmFYe1iEeSntPkwmctYYg" id="(0.03333333333333333,0.6333333333333333)"/>
+          </edges>
+          <edges xmi:type="notation:Edge" xmi:id="_fYmscO1iEeSntPkwmctYYg" type="4001" element="_fX6I4O1iEeSntPkwmctYYg" source="_MdxQku1WEeS_SJxgbrptDA" target="_fYA2kO1iEeSntPkwmctYYg">
+            <children xmi:type="notation:Node" xmi:id="_fYnTgO1iEeSntPkwmctYYg" type="6001">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fYnTge1iEeSntPkwmctYYg" y="-10"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_fYn6kO1iEeSntPkwmctYYg" type="6002">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fYn6ke1iEeSntPkwmctYYg" y="10"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_fYn6ku1iEeSntPkwmctYYg" type="6003">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fYn6k-1iEeSntPkwmctYYg" y="10"/>
+            </children>
+            <styles xmi:type="notation:ConnectorStyle" xmi:id="_fYmsce1iEeSntPkwmctYYg"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_fYmscu1iEeSntPkwmctYYg" fontName=".Helvetica Neue DeskInterface" fontHeight="8"/>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fYmsc-1iEeSntPkwmctYYg" points="[1, 0, -111, -10]$[97, 0, -15, -10]"/>
+            <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fYohoO1iEeSntPkwmctYYg" id="(0.9666666666666667,0.6666666666666666)"/>
+            <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fYohoe1iEeSntPkwmctYYg" id="(0.5,1.0)"/>
+          </edges>
+        </data>
+      </ownedAnnotationEntries>
+      <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_MdvbYe1WEeS_SJxgbrptDA" name="Step1" outgoingEdges="_fX4TsO1iEeSntPkwmctYYg" width="3" height="3" resizeKind="NSEW">
+        <target xmi:type="sbd:Step" href="example.sbd#//@steps.0"/>
+        <semanticElements xmi:type="sbd:Step" href="example.sbd#//@steps.0"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:Square" xmi:id="_MdvbYu1WEeS_SJxgbrptDA" showIcon="false" labelPosition="node">
+          <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_MdvbY-1WEeS_SJxgbrptDA"/>
+          <description xmi:type="style:SquareDescription" href="platform:/resource/sbd.design/description/sbd.odesign#//@ownedViewpoints[name='steps']/@ownedRepresentations[name='Job%20Diagram']/@defaultLayer/@nodeMappings[name='StepNode']/@style"/>
+          <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_MdvbZO1WEeS_SJxgbrptDA"/>
+          <color xmi:type="viewpoint:RGBValues" xmi:id="_HBYq8O1XEeS_SJxgbrptDA" red="217" green="196" blue="215"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/sbd.design/description/sbd.odesign#//@ownedViewpoints[name='steps']/@ownedRepresentations[name='Job%20Diagram']/@defaultLayer/@nodeMappings[name='StepNode']"/>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_MdvbZu1WEeS_SJxgbrptDA" name="Step2" outgoingEdges="_fX6I4O1iEeSntPkwmctYYg" incomingEdges="_fX4TsO1iEeSntPkwmctYYg" width="3" height="3" resizeKind="NSEW">
+        <target xmi:type="sbd:Step" href="example.sbd#//@steps.1"/>
+        <semanticElements xmi:type="sbd:Step" href="example.sbd#//@steps.1"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:Square" xmi:id="_MdvbZ-1WEeS_SJxgbrptDA" showIcon="false" labelPosition="node">
+          <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_MdvbaO1WEeS_SJxgbrptDA"/>
+          <description xmi:type="style:SquareDescription" href="platform:/resource/sbd.design/description/sbd.odesign#//@ownedViewpoints[name='steps']/@ownedRepresentations[name='Job%20Diagram']/@defaultLayer/@nodeMappings[name='StepNode']/@style"/>
+          <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_Mdvbae1WEeS_SJxgbrptDA"/>
+          <color xmi:type="viewpoint:RGBValues" xmi:id="_HBZSAO1XEeS_SJxgbrptDA" red="217" green="196" blue="215"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/sbd.design/description/sbd.odesign#//@ownedViewpoints[name='steps']/@ownedRepresentations[name='Job%20Diagram']/@defaultLayer/@nodeMappings[name='StepNode']"/>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_fXWIMO1iEeSntPkwmctYYg" name="Step3" incomingEdges="_fX6I4O1iEeSntPkwmctYYg" width="3" height="3" resizeKind="NSEW">
+        <target xmi:type="sbd:Step" href="example.sbd#//@steps.2"/>
+        <semanticElements xmi:type="sbd:Step" href="example.sbd#//@steps.2"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:Square" xmi:id="_fXWvQO1iEeSntPkwmctYYg" showIcon="false" labelPosition="node">
+          <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_fXWvQe1iEeSntPkwmctYYg"/>
+          <description xmi:type="style:SquareDescription" href="platform:/resource/sbd.design/description/sbd.odesign#//@ownedViewpoints[name='steps']/@ownedRepresentations[name='Job%20Diagram']/@defaultLayer/@nodeMappings[name='StepNode']/@style"/>
+          <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_fXWvQu1iEeSntPkwmctYYg"/>
+          <color xmi:type="viewpoint:RGBValues" xmi:id="_fXWvQ-1iEeSntPkwmctYYg" red="217" green="196" blue="215"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/sbd.design/description/sbd.odesign#//@ownedViewpoints[name='steps']/@ownedRepresentations[name='Job%20Diagram']/@defaultLayer/@nodeMappings[name='StepNode']"/>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_fX4TsO1iEeSntPkwmctYYg" sourceNode="_MdvbYe1WEeS_SJxgbrptDA" targetNode="_MdvbZu1WEeS_SJxgbrptDA">
+        <target xmi:type="sbd:Step" href="example.sbd#//@steps.0"/>
+        <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_fX5h0O1iEeSntPkwmctYYg" size="2">
+          <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/sbd.design/description/sbd.odesign#//@ownedViewpoints[name='steps']/@ownedRepresentations[name='Job%20Diagram']/@defaultLayer/@edgeMappings[name='nextStep']/@style"/>
+          <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_fX5h0e1iEeSntPkwmctYYg" red="136" green="136" blue="136"/>
+          <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_fX5h0u1iEeSntPkwmctYYg">
+            <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_fX5h0-1iEeSntPkwmctYYg"/>
+          </centerLabelStyle>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/sbd.design/description/sbd.odesign#//@ownedViewpoints[name='steps']/@ownedRepresentations[name='Job%20Diagram']/@defaultLayer/@edgeMappings[name='nextStep']"/>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_fX6I4O1iEeSntPkwmctYYg" sourceNode="_MdvbZu1WEeS_SJxgbrptDA" targetNode="_fXWIMO1iEeSntPkwmctYYg">
+        <target xmi:type="sbd:Step" href="example.sbd#//@steps.1"/>
+        <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_fX6v8O1iEeSntPkwmctYYg" size="2">
+          <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/sbd.design/description/sbd.odesign#//@ownedViewpoints[name='steps']/@ownedRepresentations[name='Job%20Diagram']/@defaultLayer/@edgeMappings[name='nextStep']/@style"/>
+          <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_fX6v8e1iEeSntPkwmctYYg" red="136" green="136" blue="136"/>
+          <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_fX6v8u1iEeSntPkwmctYYg">
+            <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_fX6v8-1iEeSntPkwmctYYg"/>
+          </centerLabelStyle>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/sbd.design/description/sbd.odesign#//@ownedViewpoints[name='steps']/@ownedRepresentations[name='Job%20Diagram']/@defaultLayer/@edgeMappings[name='nextStep']"/>
+      </ownedDiagramElements>
+      <description xmi:type="description_1:DiagramDescription" href="platform:/resource/sbd.design/description/sbd.odesign#//@ownedViewpoints[name='steps']/@ownedRepresentations[name='Job%20Diagram']"/>
+      <filterVariableHistory xmi:type="diagram:FilterVariableHistory" xmi:id="_Mdvba-1WEeS_SJxgbrptDA"/>
+      <activatedLayers xmi:type="description_1:Layer" href="platform:/resource/sbd.design/description/sbd.odesign#//@ownedViewpoints[name='steps']/@ownedRepresentations[name='Job%20Diagram']/@defaultLayer"/>
+      <target xmi:type="sbd:Job" href="example.sbd#/"/>
+    </ownedRepresentations>
+    <viewpoint xmi:type="description:Viewpoint" href="platform:/resource/sbd.design/description/sbd.odesign#//@ownedViewpoints[name='steps']"/>
+  </ownedViews>
+</viewpoint:DAnalysis>

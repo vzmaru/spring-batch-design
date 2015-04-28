@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.0"?>
+
+<!--
+-->
+
+<plugin>
+
+   <extension point="org.eclipse.ui.newWizards">
+      <!-- @generated sbd -->
+      <category
+            id="org.eclipse.emf.ecore.Wizard.category.ID"
+            name="%_UI_Wizard_category"/>
+      <wizard
+            id="sbd.presentation.SbdModelWizardID"
+            name="%_UI_SbdModelWizard_label"
+            class="sbd.presentation.SbdModelWizard"
+            category="org.eclipse.emf.ecore.Wizard.category.ID"
+            icon="icons/full/obj16/SbdModelFile.gif">
+         <description>%_UI_SbdModelWizard_description</description>
+         <selection class="org.eclipse.core.resources.IResource"/>
+      </wizard>
+   </extension>
+
+   <extension point="org.eclipse.ui.editors">
+      <!-- @generated sbd -->
+      <editor
+            id="sbd.presentation.SbdEditorID"
+            name="%_UI_SbdEditor_label"
+            icon="icons/full/obj16/SbdModelFile.gif"
+            extensions="sbd"
+            class="sbd.presentation.SbdEditor"
+            contributorClass="sbd.presentation.SbdActionBarContributor">
+      </editor>
+   </extension>
+
+</plugin>

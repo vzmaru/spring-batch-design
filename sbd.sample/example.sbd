@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sbd:Job xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:sbd="http://www.example.org/sbd" id="job1" name="Job1">
+  <steps id="step1" name="Step1" next="//@steps.1"/>
+  <steps id="step2" name="Step2" next="//@steps.2"/>
+  <steps id="step3" name="Step3"/>
+</sbd:Job>
